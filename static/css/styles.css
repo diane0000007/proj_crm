@@ -1,0 +1,27 @@
+.form-layout {
+
+    width: 500px;
+}
+table {
+    width: 200%;
+    font-size: 15px; 
+    table-layout: auto; 
+}
+.message-text{
+    color: black;
+}
+.btn-close {
+  margin-left: 15px;
+  font-weight: bold;
+  float: right;
+  font-size: 10px;
+  line-height: 15px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.btn-close:hover {
+    color: black;
+  }
+.alert{
+    padding: 17px;  
+}
